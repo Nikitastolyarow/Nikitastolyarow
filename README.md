@@ -1,5 +1,11 @@
 # 👋 Привет, я Никита!
 
+<!-- Гифка с котом, не удалять :)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding  gif" width="400"/>
+</p>
+ -->
+
 ## Добро пожаловать на мою страницу на GitHub
 
 - 👀 Изучаю Java. Закончил бакалавриат по направлению *Прикладная математика* в Арзамасском политехническом институте — филиале НГТУ им. Р. Е. Алексеева, сейчас заканчиваю магистратуру по той же специальности.  
@@ -54,6 +60,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nikitastolyarow&show_icons=true&theme=tokyonight&locale=ru" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitastolyarow&layout=compact&theme=tokyonight&locale=ru" alt="Top Langs" height="160"/>
 </p>
+
+
+---
+
+
+
 
 ---
 
