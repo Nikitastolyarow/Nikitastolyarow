@@ -36,7 +36,8 @@
 ## ✅ Выполненные проекты:
 
 - 📝 [Сетевой чат (курсовая работа)](https://github.com/Nikitastolyarow/kurs_Chat.git)  
-- 💸 [Сервис перевода денег с карты на карту](https://github.com/Nikitastolyarow/transferMoney.git)  
+- 💸 [Сервис перевода денег с карты на карту](https://github.com/Nikitastolyarow/transferMoney.git)
+- 📁 [Облачное хранилище](https://github.com/Nikitastolyarow/CloudStorage) 
 
 ---
 
